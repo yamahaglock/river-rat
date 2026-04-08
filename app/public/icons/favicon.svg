@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="15" fill="#0891B2" stroke="#164E63" stroke-width="1"/>
+  <!-- Sun -->
+  <circle cx="22" cy="8" r="4.5" fill="#FDE68A" opacity="0.9"/>
+  <!-- Desert mesa silhouette -->
+  <path d="M0 22 L6 16 L10 18 L16 12 L22 16 L26 14 L32 18 L32 32 L0 32Z" fill="#164E63" opacity="0.4"/>
+  <!-- River waves -->
+  <path d="M4 20 Q8 17 12 20 Q16 23 20 20 Q24 17 28 20" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M4 24 Q8 21 12 24 Q16 27 20 24 Q24 21 28 24" stroke="white" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.5"/>
+</svg>

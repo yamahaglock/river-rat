@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#164E63"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#sky)"/>
+  <circle cx="390" cy="110" r="65" fill="#FDE68A" opacity="0.9"/>
+  <circle cx="390" cy="110" r="50" fill="#FBBF24"/>
+  <path d="M0 320 L60 250 L130 280 L200 220 L270 260 L340 200 L400 240 L460 210 L512 250 L512 512 L0 512Z" fill="#164E63" opacity="0.5"/>
+  <path d="M0 360 L80 310 L160 340 L240 290 L320 320 L400 270 L480 300 L512 280 L512 512 L0 512Z" fill="#0F3D4E" opacity="0.6"/>
+  <path d="M0 380 Q64 355 128 380 Q192 405 256 380 Q320 355 384 380 Q448 405 512 380 L512 460 Q448 435 384 460 Q320 485 256 460 Q192 435 128 460 Q64 485 0 460Z" fill="url(#water)" opacity="0.9"/>
+  <path d="M30 388 Q94 365 158 388 Q222 411 286 388 Q350 365 414 388" stroke="white" stroke-width="3.5" stroke-linecap="round" fill="none" opacity="0.5"/>
+  <path d="M80 408 Q144 385 208 408 Q272 431 336 408 Q400 385 464 408" stroke="white" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.3"/>
+  <g transform="translate(170, 348) scale(0.8)" opacity="0.9">
+    <ellipse cx="60" cy="30" rx="55" ry="12" fill="#164E63"/>
+    <path d="M20 18 L40 18 L50 5 L55 5 L60 18 L100 20 L105 25 L100 30 L15 30 L10 25Z" fill="white"/>
+    <circle cx="50" cy="10" r="6" fill="white"/>
+    <path d="M48 4 L52 4 L51 -2 L49 -2Z" fill="white"/>
+  </g>
+  <text x="256" y="490" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="48" fill="white" opacity="0.9">RIVER RAT</text>
+</svg>
