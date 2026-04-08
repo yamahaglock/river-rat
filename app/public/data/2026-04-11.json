@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-11",
+  "dayOfWeek": "Saturday",
+  "fetchedAt": "2026-04-08T19:35:22.787Z",
+  "source": "HeadgateReport.pdf",
+  "hours": [
+    {
+      "hour": 1,
+      "parkerFlow": 14036,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13086,
+      "mwh": 15.09
+    },
+    {
+      "hour": 2,
+      "parkerFlow": 13948,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 12998,
+      "mwh": 14.97
+    },
+    {
+      "hour": 3,
+      "parkerFlow": 13959,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13009,
+      "mwh": 15.01
+    },
+    {
+      "hour": 4,
+      "parkerFlow": 13962,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13012,
+      "mwh": 15.01
+    },
+    {
+      "hour": 5,
+      "parkerFlow": 14085,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13135,
+      "mwh": 15.14
+    },
+    {
+      "hour": 6,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    },
+    {
+      "hour": 7,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    },
+    {
+      "hour": 8,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    },
+    {
+      "hour": 9,
+      "parkerFlow": 14059,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13109,
+      "mwh": 15.11
+    },
+    {
+      "hour": 10,
+      "parkerFlow": 11831,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 10547,
+      "mwh": 11.85
+    },
+    {
+      "hour": 11,
+      "parkerFlow": 9226,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 7942,
+      "mwh": 9.8
+    },
+    {
+      "hour": 12,
+      "parkerFlow": 9226,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 7942,
+      "mwh": 9.8
+    },
+    {
+      "hour": 13,
+      "parkerFlow": 9226,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 7942,
+      "mwh": 9.8
+    },
+    {
+      "hour": 14,
+      "parkerFlow": 8003,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 6719,
+      "mwh": 8.92
+    },
+    {
+      "hour": 15,
+      "parkerFlow": 6508,
+      "critFlow": 950,
+      "gateFlow": 110,
+      "generatorFlow": 5448,
+      "mwh": 7.75
+    },
+    {
+      "hour": 16,
+      "parkerFlow": 6508,
+      "critFlow": 950,
+      "gateFlow": 110,
+      "generatorFlow": 5448,
+      "mwh": 7.75
+    },
+    {
+      "hour": 17,
+      "parkerFlow": 6508,
+      "critFlow": 950,
+      "gateFlow": 110,
+      "generatorFlow": 5448,
+      "mwh": 7.75
+    },
+    {
+      "hour": 18,
+      "parkerFlow": 6508,
+      "critFlow": 950,
+      "gateFlow": 110,
+      "generatorFlow": 5448,
+      "mwh": 7.75
+    },
+    {
+      "hour": 19,
+      "parkerFlow": 6508,
+      "critFlow": 950,
+      "gateFlow": 110,
+      "generatorFlow": 5448,
+      "mwh": 7.75
+    },
+    {
+      "hour": 20,
+      "parkerFlow": 8410,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 7126,
+      "mwh": 9.23
+    },
+    {
+      "hour": 21,
+      "parkerFlow": 12664,
+      "critFlow": 950,
+      "gateFlow": 334,
+      "generatorFlow": 11380,
+      "mwh": 12.3
+    },
+    {
+      "hour": 22,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    },
+    {
+      "hour": 23,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    },
+    {
+      "hour": 24,
+      "parkerFlow": 14138,
+      "critFlow": 950,
+      "gateFlow": 0,
+      "generatorFlow": 13188,
+      "mwh": 15.19
+    }
+  ],
+  "dailyAverage": 11250,
+  "isForecast": true
+}
